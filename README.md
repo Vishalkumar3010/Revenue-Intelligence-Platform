@@ -233,7 +233,7 @@ streamlit run app/main.py
 
 # Author
 
-Vishal Singh
+Vishal Kumar
 
 Senior Data Analyst | Automation Enthusiast | Revenue Operations & AI Analytics
 
